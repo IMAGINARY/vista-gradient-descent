@@ -15,5 +15,6 @@
   "showBotTypeTips": true,
   "showDemo": true,
   "demoDuration": 30000,
+  "showInfo": true,
   "debugLog": false
 }
