@@ -10,7 +10,7 @@
   "maxDepthTilt": 4,
   "continuousGame": false,
   "fullScreenButton": false,
-  "languageButton": true,
+  "languageButton": false,
   "debugControls": false,
   "showBotTypeTips": true,
   "showDemo": true,
